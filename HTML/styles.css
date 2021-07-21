@@ -1,0 +1,15 @@
+body {
+  background-color: azure;
+    }
+
+  hr {
+    border-style : none;
+    height : 2px;
+    width : 15%;
+    border-top-style: dotted;
+    border-width: 8px;
+  }
+
+  h1{
+    text-align: center;
+  }
